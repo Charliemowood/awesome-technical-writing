@@ -3,3 +3,7 @@
 > Useful resources relating to Technical Writing. 
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list. You might also like to read the complete [awesome-list](https://github.com/sindresorhus/awesome).*
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
